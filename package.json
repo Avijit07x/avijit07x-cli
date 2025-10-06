@@ -1,7 +1,7 @@
 {
 	"name": "avijit07x",
-	"version": "1.0.1",
-	"description": "A CLI tool that shows Avijit Dey's details in the console.",
+	"version": "1.0.2",
+	"description": "CLI business card for Avijit Dey's portfolio, GitHub & contact info in your console.",
 	"main": "index.js",
 	"bin": {
 		"avijit07x": "./index.js"
