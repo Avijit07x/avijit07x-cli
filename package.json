@@ -1,0 +1,22 @@
+{
+	"name": "avijit07x",
+	"version": "1.0.1",
+	"description": "A CLI tool that shows Avijit Dey's details in the console.",
+	"main": "index.js",
+	"bin": {
+		"avijit07x": "./index.js"
+	},
+	"type": "module",
+	"author": "Avijit Dey",
+	"license": "MIT",
+	"files": [
+		"index.js"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"dependencies": {
+		"boxen": "^8.0.1",
+		"chalk": "^5.6.2"
+	}
+}
