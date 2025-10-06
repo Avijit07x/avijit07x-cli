@@ -1,6 +1,6 @@
 {
 	"name": "avijit07x",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "CLI business card for Avijit Dey's portfolio, GitHub & contact info in your console.",
 	"main": "index.js",
 	"bin": {
